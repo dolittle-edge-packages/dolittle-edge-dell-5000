@@ -1,0 +1,9 @@
+[Match]
+Name=enp4*
+
+[Network]
+DHCP=no
+Address=10.144.1.1/24
+Gateway=10.144.1.0
+DNS=10.144.1.0
+
